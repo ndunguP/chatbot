@@ -1,0 +1,16 @@
+pyttsx3
+Speech Recognition
+wikipedia
+webbrowser
+smtplib
+pyaudio
+pylance
+Chatterbot
+Chatterbot.trainers
+win32api
+win32console
+win32gui
+pyWinhook
+pillow
+selenium
+webdriver
